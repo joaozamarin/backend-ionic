@@ -29,6 +29,36 @@
       "email": "rose@rose.com",
       "senha": "asdqwedfffsdaf",
       "id": 5
+    },
+    {
+      "nome": "João",
+      "email": "joao@joao",
+      "senha": "abc123",
+      "id": 6
+    },
+    {
+      "nome": "Cliente 2",
+      "email": "cliente@cliente",
+      "senha": "asd123",
+      "id": 7
+    },
+    {
+      "nome": "asdasd",
+      "email": "asdasd@asdasd",
+      "senha": "abc123",
+      "id": 10
+    },
+    {
+      "nome": "Vitor",
+      "email": "vitor@vitor",
+      "senha": "asd123",
+      "id": 11
+    },
+    {
+      "nome": "Teste",
+      "email": "teste@teste",
+      "senha": "asd123",
+      "id": 12
     }
   ],
   "pedidos": [
